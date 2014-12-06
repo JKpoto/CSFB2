@@ -1,0 +1,3 @@
+This test case is known the Circuit Switch Fall Back. In here, a cell phone user is in an area where there only LTE signal. For some reason the LTE signal 
+dissipate. The only option that is available for him to continue communicvating, his call must be taken up by a nearby 3G (UMTS) signal. The process of the call been
+taken over by the 3G without it been noticed is whta is term CSFB
